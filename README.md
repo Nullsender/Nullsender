@@ -1,4 +1,7 @@
-## Hi there 👋
+## 🤖 Welcome to my page 🤖
+
+- 📑 I'm currently pursuing a bachelor's degree in applied mathematics.
+- 💭 I've created this page to improve my writing skills and document my journey. For this purpose I have created a small blog called [Thoughts]([https://github.com/vuejs/vue](https://nullsender.github.io/thoughts/)), where I'll share write-ups about topics I find interesting.
 
 <!--
 **Nullsender/Nullsender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
